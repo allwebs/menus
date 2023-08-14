@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>
+</title>
+</head>
+<body bgcolor="e0ffff" oncontextmenu="return false;">
+<table width="100%" border="0">
+<tr>
+<td colspan="4" align="center"><h1>RD COMPUTER & INSTITUTE</h1>
+</td>
+<tr>
+<td bgcolor="blue" width="25%" align="center">Home
+</td>
+<td bgcolor="blue" width="25%" align="center">Services
+</td>
+<td bgcolor="blue" width="25%" align="center">About Us
+</td>
+<td bgcolor="blue" width="25%" align="center">Contact
+</td>
+</tr>
+</table><br>
+<h1 align="center">OUR SERVICES</h1>
+<table align="center"  cellspacing="5">
+<tr height="35">
+<td width="30%" bgcolor="red" align="center" ><b>Courses</b></td>
+<td width="30%" bgcolor="red" align="center"><b>Deals With computer Accessories</b></td>
+<td width="30%" bgcolor="red" align="center"><b>Maintaince of Computer Accessories</b></td>
+</tr>
+<tr>
+<td width="30%" bgcolor="yellow" height="350" valign="top">
+<ul>
+<i><li>CCA</li>
+<li>DCA</li>
+<li>PGDCA</li>
+<li>ADCA</li>
+<li>TALLY etc....</li></i>
+</ul>
+</td>
+<td width="30%" bgcolor="yellow" height="350" valign="top">
+<ul>
+<i><li>Printer</li>
+<li>Scanner</li>
+<li>Speaker</li>
+<li>Laptop</li>
+<li>Desktop</li>
+<li>Catridge</li>
+<li>C.P.U</li>
+<li>U.P.S</li>
+<li>Motherboard</li>
+<li>RAM</li>
+<li>ROM</li>
+<li>Harddisk</li>
+<li>Mouse</li>
+<li>Keyboard</li>
+<li>Ink</li>
+<li>Refilling Powder</li></i>
+</ul>
+</td>
+<td width="30%" bgcolor="yellow" height="350" valign="top">
+<ul>
+<i><li>Printer Repair</li>
+<li>Laptop Repair</li>
+<li>Desktop Repair</li>
+<li>Catridge Refilling</li>
+<li>Software Installation</li>
+<li>CC tv and Other services</li></i>
+</ul>
+</td>
+</tr>
+</table>
+<marquee><i><b>Thank You for visiting Rdci,Surada</i></b></marquee>
+</body>
+</html>
